@@ -6,35 +6,6 @@ For more details, see the [markdown-csv project page](http://elipapa.github.io/m
 
 ***
 
-## Customization
-
-Simply [fork the mdresume repo](https://github.com/byuids-resumes/mdresume)
-
-![](https://help.github.com/assets/images/help/repository/fork_button.jpg)
-
-and edit the `index.md` file in the `docs` folder [directly in Github](https://help.github.com/articles/editing-files-in-your-repository/)
-
-![](https://help.github.com/assets/images/help/repository/edit-file-edit-button.png)
-
-adding your skills, jobs and education.
-
-![](https://help.github.com/assets/images/help/repository/edit-readme-light.png)
-
-## Distribution
-
-To transform your plain text resume into a beautiful and shareable HTML page, you have two options:
-
-### I. Use Github Pages to publish it online
-
-1. Edit or move your resume to the `index.md` file in the `docs` folder.
-2. Go to settings > GitHub pages to make the changes shown.
-
-![](docs_setup.png)
-
-3. Head to *yourusername*.github.io/mdresume to see your resume live.
-
-Any change you want to make to your CV from then on would have to be done in the `docs` folder and will be immediately rendered by Github Pages.
-
 ## Styling
 
 The included CSS will render your CV in two styles:
